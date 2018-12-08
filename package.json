@@ -1,0 +1,23 @@
+{
+  "name": "brainjs",
+  "version": "1.0.0",
+  "description": "Simple Machine Learning project using brainjs, nodejs and express.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Machine",
+    "Learing",
+    "Brain.js",
+    "javascript"
+  ],
+  "author": "Muhaimenul Islam",
+  "license": "ISC",
+  "dependencies": {
+    "brain.js": "^1.6.0",
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "nodemon": "^1.18.7"
+  }
+}
